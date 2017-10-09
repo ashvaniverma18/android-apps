@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\gracia\Gracia3\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c1aa08d66f4c3bb4f44c9972702966c65d20823d">
+        <dex dex="D:\gracia\Gracia3\gracia\build\intermediates\pre-dexed\release\classes_70f7cc10734a2f8ee1650bfe685ef51446424122.jar" />
+    </item>
+
+</items>

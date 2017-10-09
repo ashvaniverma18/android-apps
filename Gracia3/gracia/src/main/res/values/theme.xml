@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTheme" parent="@style/AppTheme">
+       <item name="android:activatedBackgroundIndicator">@drawable/listitem_background</item>
+    </style>
+    
+    
+ 
+    
+</resources>

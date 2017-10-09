@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="drawer_open">Open navigation drawer</string>
+	<string name="drawer_close">Close navigation drawer</string>
+    <string name="app_name">Gracia</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="headline"> - Quality is our mission </string>
+
+     <string name="contact_us_line1">SENGANI &amp; COMPANY</string>
+     <string name="contact_us_line2">Importers &amp; Exporters of Teak wood, Cashew and trading of all items</string>
+    
+     <string name="contact_us_line3">H.O.: DELHI ( INDIA )</string>
+     <string name="contact_us_line4">B.O.: GANDHIDHAM ( GUJARAT ), GURGAON ( HARYANA )</string>
+     <string name="contact_us_line5">Ph. No. 41001023 , 24 / 41003145</string>
+     <string name="contact_us_line6">Customer care : +91 - 8826302277</string>
+     <string name="contact_us_line7">Email : senganipatel@gmail.com, info@senganipatel.com</string>
+     <string name="contact_us_line8">Web : www.senganipatel.com   www.gracia.senganipatel.com  www.insideafrica.in</string>
+</resources>

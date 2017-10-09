@@ -1,0 +1,2 @@
+alias , gracia2
+pwd - gracia

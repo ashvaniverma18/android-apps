@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">       
+    <color name="purple_light">#992416</color> 
+    <color name="purple_middle">#992416</color>
+    <color name="purple_dark">#303030</color>
+    <color name="gray_light">#D3D3D3</color>
+    <color name="counter_text_bg">#D3D3D3</color>
+    <color name="counter_text_color">#992416</color>
+     <color name="splash_bg_color">#231F20</color>
+</resources>
