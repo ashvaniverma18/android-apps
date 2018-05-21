@@ -1,46 +1,46 @@
 [
     {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
-        "source": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__light_theme.xml"
-    },
-    {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
         "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__light_theme.xml"
     },
     {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
         "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
-        "source": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__dark_theme.xml"
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\color\\vpi__dark_theme.xml"
     },
     {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
         "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
         "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

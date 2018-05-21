@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 95
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 292
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 342
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 433
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 903
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 963
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1024
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1091
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 1154
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 2557
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -733,7 +733,7 @@
                     "endOffset": 2610
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -752,7 +752,7 @@
                     "endOffset": 2682
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 2754
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -790,7 +790,7 @@
                     "endOffset": 2828
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -809,7 +809,7 @@
                     "endOffset": 2902
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -828,7 +828,7 @@
                     "endOffset": 2978
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -847,7 +847,7 @@
                     "endOffset": 3051
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -866,7 +866,7 @@
                     "endOffset": 3126
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -885,7 +885,7 @@
                     "endOffset": 3197
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -904,7 +904,7 @@
                     "endOffset": 3276
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -999,7 +999,7 @@
                     "endOffset": 3601
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1379,7 +1379,7 @@
                     "endOffset": 4980
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1398,7 +1398,7 @@
                     "endOffset": 5027
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1417,7 +1417,7 @@
                     "endOffset": 5075
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1550,7 +1550,7 @@
                     "endOffset": 5536
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 5,
@@ -1607,7 +1607,7 @@
                     "endOffset": 5739
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1626,7 +1626,7 @@
                     "endOffset": 5802
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1645,7 +1645,7 @@
                     "endOffset": 5880
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1664,7 +1664,7 @@
                     "endOffset": 5959
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1683,7 +1683,7 @@
                     "endOffset": 6052
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -1702,7 +1702,7 @@
                     "endOffset": 6145
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -1721,7 +1721,7 @@
                     "endOffset": 6253
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1740,7 +1740,7 @@
                     "endOffset": 6361
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -2462,7 +2462,7 @@
                     "endOffset": 24795
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\dimens.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -2481,7 +2481,7 @@
                     "endOffset": 24851
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\dimens.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -2500,7 +2500,7 @@
                     "endOffset": 24913
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -2519,7 +2519,7 @@
                     "endOffset": 24981
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -2538,7 +2538,7 @@
                     "endOffset": 25044
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -2557,7 +2557,7 @@
                     "endOffset": 25109
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -2576,7 +2576,7 @@
                     "endOffset": 25175
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -2595,7 +2595,7 @@
                     "endOffset": 25242
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -2614,7 +2614,7 @@
                     "endOffset": 25320
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -2633,7 +2633,7 @@
                     "endOffset": 25410
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -2652,7 +2652,7 @@
                     "endOffset": 25483
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -2671,7 +2671,7 @@
                     "endOffset": 25552
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -2690,7 +2690,7 @@
                     "endOffset": 25617
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -2709,7 +2709,7 @@
                     "endOffset": 25685
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -2728,7 +2728,7 @@
                     "endOffset": 25751
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -3051,7 +3051,7 @@
                     "endOffset": 26732
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -3070,7 +3070,7 @@
                     "endOffset": 26811
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -3089,7 +3089,7 @@
                     "endOffset": 26881
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -3108,7 +3108,7 @@
                     "endOffset": 26954
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -3127,7 +3127,7 @@
                     "endOffset": 27028
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -3450,13 +3450,13 @@
                     "endOffset": 28281
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 278,
+                        "startOffset": 280,
                         "endColumn": 52,
-                        "endOffset": 326
+                        "endOffset": 328
                     }
                 }
             },
@@ -3469,13 +3469,13 @@
                     "endOffset": 28325
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 179,
+                        "startOffset": 181,
                         "endColumn": 43,
-                        "endOffset": 218
+                        "endOffset": 220
                     }
                 }
             },
@@ -3488,13 +3488,13 @@
                     "endOffset": 28392
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 5,
-                        "startOffset": 398,
+                        "startOffset": 402,
                         "endColumn": 67,
-                        "endOffset": 460
+                        "endOffset": 464
                     }
                 }
             },
@@ -3507,13 +3507,13 @@
                     "endOffset": 28509
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 5,
-                        "startOffset": 466,
+                        "startOffset": 471,
                         "endColumn": 117,
-                        "endOffset": 578
+                        "endOffset": 583
                     }
                 }
             },
@@ -3526,13 +3526,13 @@
                     "endOffset": 28576
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 5,
-                        "startOffset": 589,
+                        "startOffset": 596,
                         "endColumn": 67,
-                        "endOffset": 651
+                        "endOffset": 658
                     }
                 }
             },
@@ -3545,13 +3545,13 @@
                     "endOffset": 28671
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 5,
-                        "startOffset": 657,
+                        "startOffset": 665,
                         "endColumn": 95,
-                        "endOffset": 747
+                        "endOffset": 755
                     }
                 }
             },
@@ -3564,13 +3564,13 @@
                     "endOffset": 28749
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 5,
-                        "startOffset": 753,
+                        "startOffset": 762,
                         "endColumn": 78,
-                        "endOffset": 826
+                        "endOffset": 835
                     }
                 }
             },
@@ -3583,13 +3583,13 @@
                     "endOffset": 28827
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 5,
-                        "startOffset": 832,
+                        "startOffset": 842,
                         "endColumn": 78,
-                        "endOffset": 905
+                        "endOffset": 915
                     }
                 }
             },
@@ -3602,13 +3602,13 @@
                     "endOffset": 28926
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 5,
-                        "startOffset": 911,
+                        "startOffset": 922,
                         "endColumn": 99,
-                        "endOffset": 1005
+                        "endOffset": 1016
                     }
                 }
             },
@@ -3621,13 +3621,13 @@
                     "endOffset": 29049
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 5,
-                        "startOffset": 1011,
+                        "startOffset": 1023,
                         "endColumn": 123,
-                        "endOffset": 1129
+                        "endOffset": 1141
                     }
                 }
             },
@@ -3640,13 +3640,13 @@
                     "endOffset": 29114
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,
-                        "startOffset": 113,
+                        "startOffset": 115,
                         "endColumn": 61,
-                        "endOffset": 173
+                        "endOffset": 175
                     }
                 }
             },
@@ -3659,13 +3659,13 @@
                     "endOffset": 29177
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
-                        "startOffset": 53,
+                        "startOffset": 54,
                         "endColumn": 59,
-                        "endOffset": 111
+                        "endOffset": 112
                     }
                 }
             },
@@ -3678,13 +3678,13 @@
                     "endOffset": 29241
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 331,
+                        "startOffset": 334,
                         "endColumn": 63,
-                        "endOffset": 390
+                        "endOffset": 393
                     }
                 }
             },
@@ -3697,13 +3697,13 @@
                     "endOffset": 29294
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 224,
+                        "startOffset": 226,
                         "endColumn": 52,
-                        "endOffset": 272
+                        "endOffset": 274
                     }
                 }
             },
@@ -3717,14 +3717,14 @@
                     "endOffset": 29585
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\styles.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 191,
+                        "startOffset": 192,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 481
+                        "endOffset": 484
                     }
                 }
             },
@@ -3738,14 +3738,14 @@
                     "endOffset": 29745
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\styles.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 522,
+                        "startOffset": 525,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 679
+                        "endOffset": 682
                     }
                 }
             },
@@ -5756,7 +5756,7 @@
                     "endOffset": 80322
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values\\theme.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values\\theme.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -6890,7 +6890,7 @@
                     "endOffset": 97489
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -7162,7 +7162,7 @@
                     "endOffset": 99190
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -7278,7 +7278,7 @@
                     "endOffset": 99701
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
@@ -8270,7 +8270,7 @@
                     "endOffset": 105171
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
@@ -8291,7 +8291,7 @@
                     "endOffset": 105773
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 4,

@@ -3,12 +3,48 @@
 
     <item
         is-multidex="false"
-        jar="D:\gracia\Gracia3\library\build\intermediates\bundles\default\classes.jar"
+        jar="D:\Gracia\android-apps\Gracia3\library\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="c1aa08d66f4c3bb4f44c9972702966c65d20823d">
-        <dex dex="D:\gracia\Gracia3\gracia\build\intermediates\pre-dexed\release\classes_70f7cc10734a2f8ee1650bfe685ef51446424122.jar" />
+        <dex dex="D:\Gracia\android-apps\Gracia3\gracia\build\intermediates\pre-dexed\debug\classes_25d8ca4dd2498192524022808b3a369d18abced0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ashvaniv\.android\build-cache\a7fa0bd7c4a53a1abb38a35c42a52cbc8c248cfa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Gracia\android-apps\Gracia3\gracia\build\intermediates\pre-dexed\debug\classes_259c388194167d4977aa4fb3742dc443a598690f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Gracia\android-apps\Gracia3\gracia\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_b055b24cee2129366d8b6f235b3d8159c215532b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ashvaniv\.android\build-cache\e00b76663f3f71314784a59942f16714b4a39db7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Gracia\android-apps\Gracia3\gracia\build\intermediates\pre-dexed\debug\classes_9c204fdbd91f6b167929606f947a6f46752f8d02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ashvaniv\.android\build-cache\a7fa0bd7c4a53a1abb38a35c42a52cbc8c248cfa\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Gracia\android-apps\Gracia3\gracia\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_a303c0b1c0a5dcba2f11364357e02557cd519565.jar" />
     </item>
 
 </items>

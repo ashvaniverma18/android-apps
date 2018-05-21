@@ -33,7 +33,7 @@ import org.apache.http.message.BasicNameValuePair;
 
 public class ContactUsFragment extends Fragment {
     private EditText commentsField;
-    private String contactUs = "1/60-61, W.H.S Kirti Nagar,\n New Delhi - 110015\nPhone - 011-41001024\nCustomer Care - 08826302277\nEmail - info@senganipatel.com \nWeb - http://gracia.senganipatel.com\n";
+    private String contactUs = "1/61, W.H.S. Kirti Nagar,\n New Delhi - 110015\nPhone - 011-41001024\nCustomer Care - 8826302277\nWeb - www.graciaveneers.com\nEmail - info@graciaveneers.com, graciaveneers@gmail.com \n";
     private EditText emailField;
     private EditText mobField;
     private EditText nameField;
@@ -41,20 +41,26 @@ public class ContactUsFragment extends Fragment {
     private ProgressDialog spinner;
     private Button submitButton;
 
+    private String name;
+    private String email;
+    private String mobile;
+    private String comments;
+
     private class FormPostTask extends AsyncTask<Void, Void, String> {
         private FormPostTask() {
         }
 
         protected String doInBackground(Void... params) {
             try {
+
                 HttpClient httpClient = new DefaultHttpClient();
-                HttpPost httpPost = new HttpPost("http://gracia.senganipatel.com/classes/contactaap.php");
+                HttpPost httpPost = new HttpPost("http://graciaveneers.com/classes/contactaap.php");
                 List<NameValuePair> nameValuePair = new ArrayList(2);
-                nameValuePair.add(new BasicNameValuePair("name", ContactUsFragment.this.nameField.getText().toString()));
-                nameValuePair.add(new BasicNameValuePair("email", ContactUsFragment.this.emailField.getText().toString()));
-                nameValuePair.add(new BasicNameValuePair("phone", ContactUsFragment.this.mobField.getText().toString()));
+                nameValuePair.add(new BasicNameValuePair("name", ContactUsFragment.this.name));
+                nameValuePair.add(new BasicNameValuePair("email", ContactUsFragment.this.email));
+                nameValuePair.add(new BasicNameValuePair("phone", ContactUsFragment.this.mobile));
                 nameValuePair.add(new BasicNameValuePair("subject", "Sales/Support"));
-                nameValuePair.add(new BasicNameValuePair("comments", ContactUsFragment.this.commentsField.getText().toString()));
+                nameValuePair.add(new BasicNameValuePair("comments", ContactUsFragment.this.comments));
                 httpPost.setEntity(new UrlEncodedFormEntity(nameValuePair));
                 HttpResponse response = httpClient.execute(httpPost);
                 StringBuilder sb = new StringBuilder();
@@ -69,22 +75,23 @@ public class ContactUsFragment extends Fragment {
                 }
             } catch (Exception e) {
                 ContactUsFragment.this.spinner.cancel();
-                Toast.makeText(ContactUsFragment.this.getActivity(), e.getMessage(), 1).show();
+                Toast.makeText(ContactUsFragment.this.getActivity(), e.getMessage(), Toast.LENGTH_LONG).show();
                 return null;
             }
+
         }
 
         protected void onPostExecute(String result) {
             ContactUsFragment.this.spinner.cancel();
             ContactUsFragment.this.spinner = null;
             super.onPostExecute(result);
-            Toast.makeText(ContactUsFragment.this.getActivity(), Html.fromHtml(result), 1).show();
+            Toast.makeText(ContactUsFragment.this.getActivity(), Html.fromHtml(result), Toast.LENGTH_LONG).show();
         }
     }
 
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.contactus_fragment, container, false);
-        ((TextView) rootView.findViewById(R.id.contact_us_content_comp_name)).setText("SENGANI & COMPANY");
+        ((TextView) rootView.findViewById(R.id.contact_us_content_comp_name)).setText("GRACIA VENEERS");
         LinearLayout formElements = (LinearLayout) rootView.findViewById(R.id.feed_back_form).findViewById(R.id.formElement);
         this.nameField = (EditText) formElements.findViewById(R.id.nameText);
         this.emailField = (EditText) formElements.findViewById(R.id.emailText);
@@ -129,8 +136,9 @@ public class ContactUsFragment extends Fragment {
 
     private void sumbitForm() {
         if (!isConnectedToInternet()) {
-            Toast.makeText(getActivity(), "Internet connection is unavailable", 1).show();
+            Toast.makeText(getActivity(), "Internet connection is unavailable", Toast.LENGTH_LONG).show();
         } else if (isFormValid()) {
+            setFieldValues();
             this.spinner = new ProgressDialog(getActivity());
             this.spinner.setProgressStyle(0);
             this.spinner.setMessage("Sending Email");
@@ -139,6 +147,14 @@ public class ContactUsFragment extends Fragment {
             this.spinner.show();
             new FormPostTask().execute(new Void[0]);
         }
+    }
+
+    private void setFieldValues() {
+        name = this.nameField.getText().toString();
+        email = this.emailField.getText().toString();
+        mobile = this.mobField.getText().toString();
+        comments = this.commentsField.getText().toString();
+
     }
 
     private boolean isFormValid() {

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "outputFile": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 293
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -193,7 +193,7 @@
                     "endOffset": 2956
                 },
                 "from": {
-                    "file": "D:\\gracia\\Gracia3\\gracia\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,

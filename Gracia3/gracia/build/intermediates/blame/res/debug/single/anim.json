@@ -1,26 +1,26 @@
 [
     {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "D:\\gracia\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Gracia\\android-apps\\Gracia3\\gracia\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\ashvaniv\\.android\\build-cache\\e00b76663f3f71314784a59942f16714b4a39db7\\output\\res\\anim\\abc_fade_out.xml"
     }
 ]
